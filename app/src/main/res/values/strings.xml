@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NoteApplicationMVVM</string>
+    <string name="add_notes">Add Notes</string>
+    <string name="title">Title</string>
+    <string name="note_content">Note Content</string>
+    <string name="add_new_note">Add New Note</string>
+    <string name="save">Save</string>
+</resources>
